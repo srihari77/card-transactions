@@ -1,15 +1,14 @@
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-After testing the endpoints, you can update the README file with instructions on how to run the backend, tests, and access the API documentation. Here's an example structure for the README file:
-
-markdown
-Copy code
 # Project Name
 
-Brief description of the project.
+
+The project is a Node.js backend application implemented using Nest.js framework, which utilizes an embedded database for data storage. It provides various APIs for managing cards and transactions for users. The backend follows efficient solutions and utilizes event sourcing concepts for transaction aggregation. Additionally, the project includes unit, integration, or end-to-end testing and is developed using TypeScript.
+**
+Project Description:**
+Technology Stack:
+
+Backend Framework: Nest.js
+Database: Embedded database (e.g., SQLite)
+Language: TypeScript
 
 ## Installation
 
