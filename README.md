@@ -2,8 +2,9 @@
 
 
 The project is a Node.js backend application implemented using Nest.js framework, which utilizes an embedded database for data storage. It provides various APIs for managing cards and transactions for users. The backend follows efficient solutions and utilizes event sourcing concepts for transaction aggregation. Additionally, the project includes unit, integration, or end-to-end testing and is developed using TypeScript.
-**
-Project Description:**
+
+**Project Description:**
+
 Technology Stack:
 
 Backend Framework: Nest.js
